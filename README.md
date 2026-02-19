@@ -11,6 +11,7 @@ This repository contains all projects and exercises completed during the **C Pro
 
 The goal of this repo is to build a **strong foundation in C programming** and document my progress while learning the language .
 
+> some sections were just explanation, this way not do not appear in the exercises.
 ---
 
 ## 🧠 Skills Practiced in This Course
